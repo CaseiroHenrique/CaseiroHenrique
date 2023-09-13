@@ -13,4 +13,4 @@ Sou o fundador da Conexão Code, uma empresa dedicada a desenvolver softwares, s
 
 📫 Entre em contato
 E-mail: caseiro.henrique@gmail.com
-[[LinkedIn]](https://www.linkedin.com/in/henrique-caseiro-657751208/)https://www.linkedin.com/in/henrique-caseiro-657751208/
+[LinkedIn](https://www.linkedin.com/in/henrique-caseiro-657751208/)https://www.linkedin.com/in/henrique-caseiro-657751208/
