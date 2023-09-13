@@ -1,16 +1,16 @@
-### Hi there 👋
+Olá! 👋
+Eu sou Henrique Caseiro, um programador full-stack apaixonado por tecnologia e inovação. Com vasta experiência em diversas tecnologias, estou sempre buscando aprimorar minhas habilidades e entregar soluções de alta qualidade.
 
-<!--
-**CaseiroHenrique/CaseiroHenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Minhas habilidades
+Frontend: React, JS, HTML, CSS, TypeScript
+Backend: JAVA, Node.js, Express.js, Spring Boot
+Banco de Dados: PostgreSQL, MongoDB
+Deploy & DevOps: Heroku, Docker, AWS
+Ferramentas: Git, Webpack, Babel, ESLint
 
-Here are some ideas to get you started:
+🏢 Conexão Code
+Sou o fundador da Conexão Code, uma empresa dedicada a desenvolver softwares, sistemas e sites personalizados para atender às necessidades específicas de nossos clientes. Na Conexão Code, acreditamos que a tecnologia é a chave para resolver os desafios do mundo moderno e estamos comprometidos em fornecer soluções inovadoras para empresas de pequeno e médio porte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Entre em contato
+E-mail: caseiro.henrique@gmail.com
+[[LinkedIn]](https://www.linkedin.com/in/henrique-caseiro-657751208/)https://www.linkedin.com/in/henrique-caseiro-657751208/
