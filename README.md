@@ -7,9 +7,13 @@ Sou um programador full-stack apaixonado por tecnologia e inovação. Com vasta 
 
 ## 🛠 Habilidades
 Frontend: React, JS, HTML, CSS, TypeScript 
+
 Backend: JAVA, Node.js, Express.js, Spring Boot 
+
 Banco de Dados: PostgreSQL, MongoDB 
+
 Deploy & DevOps: Heroku, Docker, AWS 
+
 Ferramentas: Git, Webpack, Babel, ESLint
 
 
